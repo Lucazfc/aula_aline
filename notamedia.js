@@ -7,5 +7,3 @@ console.log("aprovado");
 }else{
 console.log("reprovado")
 }
-
-

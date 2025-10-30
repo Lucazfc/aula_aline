@@ -1,4 +1,4 @@
-var lanche = "4";
+var lanche = "9";
  
 switch (lanche) {
     case "1":
